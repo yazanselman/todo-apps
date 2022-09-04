@@ -205,7 +205,7 @@ export default function Todo() {
 
       <footer className="info">
         <p>
-          <a href="https://github.com/yazanselman">Click to edit a todo</a>
+          <a href="https://github.com/yazanselman/todo-apps">Click to edit a todo</a>
         </p>
         <p>
           Created by <a href="https://github.com/yazanselman">Selman Yazan</a>
